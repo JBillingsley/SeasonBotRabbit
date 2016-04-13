@@ -1,0 +1,24 @@
+{
+  "name": "rabbit-reply-bot",
+  "version": "1.0.0",
+  "description": "This bot retweets the latest tweet using the \"#mediaarts\" hashtag. It attempts to retweet once per hour.",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBillingsley/SeasonBotRabbit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBillingsley/SeasonBotRabbit/issues"
+  },
+  "homepage": "https://github.com/JBillingsley/SeasonBotRabbit#readme"
+}
